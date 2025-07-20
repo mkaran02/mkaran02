@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mkaran02
+- 👋 Hi, I’m Karan Sambhaji Minchekar
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning computer science engineering 
-- 💞️ I’m looking to collaborate on web development 
+- 💞️ I’m looking to collaborate on Data Science , Machine Learning and AI
 - 📫 How to reach me @karanminchekar@gmail.com 
 
 
